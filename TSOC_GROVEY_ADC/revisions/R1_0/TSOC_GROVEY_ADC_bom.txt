@@ -1,0 +1,18 @@
+Partlist exported from 
+U:/PatternAgents/eagle/TSOC_Modules/TSOC_GROVEY_ADC/TSOC_GROVEY_ADC/revisions/R1_0/TSOC_GROVEY_ADC.sch at 1/29/2017 11:52:49 AM
+
+Qty Value             Device                             Package         Parts                       Description                                          
+1   RED               LED0603                            LED-0603        D1                          LEDs                                                 
+1   ADS1115IDGST      ADC_ADS1015                        MSOP10          U1                          ADS1015 12-bit 4-Channel I2C ADC
+3   BSS138W-7-F       SMD-MOSFET-N-CH-50V-200MA-BSS138W  SOT-23          Q1, Q2, Q3                  305030000                                            
+1   1K                RESISTOR_SFE0603-RES               0603-RES        R1                          Resistor                                             
+7   10K 1/10W         SMD-RES-10K-5%-1/10W(0603)         R0603           R4, R5, R6, R7, R8, R9, R11 301010293                                            
+4   390K              SMD-RES-150K-1%-1/10W(0603)        R0603           R2, R3, R12, R13            301010205                                            
+5   100nf             CERAMIC-100NF-50V-10%-X7R(0603)    C0603           C2, C4, C7, C9, C11         302010138                                            
+4   1nf               CERAMIC-1NF-50V-5%-C0G(0603)       C0603           C1, C3, C10, C12            302010341                                            
+3   1uf               CERAMIC-1UF-25V-10%-X7R(0603)      C0603           C5, C6, C8                  302010139                                            
+1   3p-2.54           DIP-BLACK-MALE-HEADER-VERT         H3-2.54         J1                          320020079                                            
+4   4P-2.0-90D        GROVE-CONNECTOR-DIP-90D(4P-2.0)    HW4-2.0-90D     AI1, AI2, AI3, AI4          320110034                                            
+1                     JMP-2-NO                           JMP-2-NO        IRQ                         Two Terminal Jumper - Normally Open
+----------------------------------------------------------------------------
+1   DNP               SMD-RES-10K-5%-1/10W(0603)         R0603           R10                         301010293                                            
